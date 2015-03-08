@@ -1,16 +1,23 @@
 posts:
-  - employer: Imperial College London
+  - employer: University of Missouri
     roles:
-      - start: 2006
-        end: 2009
-        title: Research Associate, BP Urban Energy Systems Project
-      - start: 2009
-        end: 2011
-        title: Research Fellow and Team Leader, BP Urban Energy Systems project
+      - start: 2012
+        title: Associate Professor, Department of Pathology and Anatomical Sciences
+  - employer: California State Universty, San Bernardino
+    roles:
       - start: 2011
-        end: present
-        title: Lecturer, Dept of Civil and Environmental Engineering
-  - employer: Institute of Industrial Science, University of Tokyo
+        end: 2012
+        title: Associate Professor, Department of Biology
+      - start: 2007
+        end: 2011
+        title: Assistant Professor, Department of Biology
+  - employer: Brown University and University of California, Riverside
     roles:
-      - start: October 2010
-        title: Visiting Research Fellow
+      - start: 2005
+        end: 2007
+        title: NIH NRSA Postdoctoral Fellow
+  - employer: Brown University
+    roles:
+      - start: 2002
+        end: 2005
+        title: Post-doctoral Research Associate, Department of Ecology and Evolutionary Biology
