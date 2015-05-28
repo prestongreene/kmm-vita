@@ -2,6 +2,7 @@ posts:
   - employer: University of Missouri
     roles:
       - start: 2012
+        end: present
         title: Associate Professor, Department of Pathology and Anatomical Sciences
   - employer: California State Universty, San Bernardino
     roles:

@@ -1,67 +1,37 @@
 grants:
-  - start: 2014
-    end: present
-    title: Future FM
-    funder: EPSRC
-    role: Co-investigator
-    value: £600,000
-  - start: 2014
-    end: present
-    title: Smart Sustainable Districts
-    funder: Climate KIC
-    role: Co-investigator
-    value: £68,000
-  - start: 2014
-    end: present
-    title: Modeling City Systems
-    funder: Climate KIC
-    role: Co-investigator
-    value: unknown
-  - start: 2014
-    end: present
-    title: "Sponsorship Award: Urban-scale Building Energy Network"
-    funder: EPSRC
-    role: Principal investigator
-    value: £23,300
-  - start: 2014
-    end: present
-    title: Downscaling urban metabolism
-    funder: Enel Foundation/University of Toronto
-    role: Principal investigator
-    value: £10,000
-  - start: 2012
-    end: present
-    title: SusLab NWE
-    funder: EU Interregio
-    role: Co-investigator
-    value: £170,000
-  - start: 2012
-    end: 2012
-    title: Smart Thermal Storage Systems
-    funder: DECC
-    role: Co-investigator
-    value: £30,000
-  - start: 2012
-    end: 2013 (?)
-    title: "Halving global CO2 by 2050: Technologies and Costs"
-    funder: AREVA
-    role: Co-investigator
-    value: unknown
-  - start: 2012
-    end: 2012
-    title: Energy Futures Lab Research Challenge
-    funder: Imperial College London
-    role: Principal investigator
-    value: £8,000
-  - start: 2011
-    end: 2011
-    title: Energy systems analysis of South Heaton
-    funder: Newcastle University
-    role: Co-investigator
-    value: £2,500
+  - start: 2015
+    end: 2018
+    title: "Collaborative Research: Dinosaur Jaw Muscle Evolution and the Origins of Avian Cranial Kinesis"
+    funder: National Science Foundation – Integrative Organismal Systems
+    role: "co-PI. Collaborative project between Casey M. Holliday (lead PI), Kevin M. Middleton (co-PI), Julian Davis (University of Southern Indiana; co-PI), and Lawrence W. Witmer (Ohio University; co-PI) to study the evolution and function of cranial kinesis in dinosaurs and birds."
+    value: "\\$660,000 total to University of Missouri"
+  - start: 2010
+    end: 2015
+    title: "Collaborative Research: Wings to flippers - phylogenetics, character acquisition, and feather biomechanics in the evolution of wing-propelled diving (NSF DEB 0949945)"
+    funder: National Science Foundation – Systematic Biology
+    role: "co-PI. Collaborative project with co-PIs Julia Clarke (University of Texas, Austin) and Daniel Ksepka (North Carolina State University) to integrate studies of phylogenetics, sensory systems evolution, bone microstructure, feather function, and wing biomechanics across multiple transitions from aerial flight to underwater wing-propelled diving."
+    value: "\\$471,717 total; \\$64,201 to PI Middleton"
   - start: 2009
+    end: 2014
+    title: "Collaborative Research: LiT: Effects of environmental oxygen on growth and physiological performance in the American alligator: A case study in experimental paleophysiology (NSF IOS 0922576)"
+    funder: National Science Foundation – Integrative Organismal Systems
+    role: "co-PI. Collaborative project with co-PIs James Hicks (University of California, Irvine), Tomasz Owerkowicz (CSU, San Bernardino) and Bryan Rourke (CSU, Long Beach) to study the effects of altered environmental oxygen level on alligator physiology (growth, locomotor ability, muscle, and bone structure)."
+    value: "\\$517,931 total; \\$59,619 to PI Middleton"
+  - start: 2011
+    end: 2014
+    title: "Maturation of an S-STEM scholarship program at a hispanic/minority serving institution (NSF DUE 1060632)"
+    funder: "National Science Foundation – Undergraduate Education"
+    role: "co-PI. Four years of continued funding and expansion of CSUSB Math and Science Scholars scholarship program de- signed to encourage minority, under-represented,and economically disadvantaged student to enter STEM disciplines. This grant was awarded while I was at CSUSB, but I am no longer co-PI."
+    value: "\\$591,231"
+  - start: 2008
     end: 2009
-    title: MBA Innovation, Entrepreneurship and Design
-    funder: Imperial College London
-    role: Ideator
-    value: 30 person-months
+    title: "Extramural Associates Research Development Award (EARDA) pilot grant: Establishment of an Inbred Strain of 'Mini-muscle' Phenotype, High-activity Mice"
+    role: PI
+    funder: "NIH – National Institute of Arthritis and Musculoskeletal and Skin Diseases"
+    value: "\\$15,000"
+  - start: 2000
+    end: 2003
+    title: "Dissertation Improvement Grant: 'Evolution and Functional Morphology of the Theropod Foot'"
+    role: co-PI
+    funder: "National Science Foundation"
+    value: "\\$6,012"
