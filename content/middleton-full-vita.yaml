@@ -38,8 +38,12 @@ sections:
   - title: Teaching
     file: teaching.yaml
   - title: PhD Students
-    file: students.yaml
-  - title: Invited talks
+    file: phdstudents.yaml
+  - title: MS Students
+    file: msstudents.yaml
+  - title: Graduate Committees
+    file: gradcommittee.yaml
+  - title: Invited Talks
     file: talks.yaml
   - title: Service to the Profession
     file: service.yaml

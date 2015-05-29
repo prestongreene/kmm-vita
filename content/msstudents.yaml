@@ -1,9 +1,21 @@
 ms:
-  - start:  2008
+  - start: 2008
     end: 2012
     name: Susan Lujan
     title: Urbanisation and non-communicable diseases
+    note: Currently a lecturer at CSU, San Bernardino Palm Desert Campus
   - start: 2008
     end: 2012
     name: Lauren English
     title: Wireless sensor networks for post-occupancy building commissioning
+    note: Currently doctoral student at University of Texas at Austin
+  - start: 2010
+    end: 2012
+    name: Brittney Coats
+    title: Urbanisation and non-communicable diseases
+    note: Currently a graduate student at University of Chicago
+  - start: 2011
+    end: 2012
+    name: Katherine Johnson
+    title: Wireless sensor networks for post-occupancy building commissioning
+    note: Currently doctoral student at University of California, Riverside.

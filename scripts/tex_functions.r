@@ -154,15 +154,58 @@ format_service <- function(l) {
     return(lines)
 }
 
-format_students <- function(l) {
+format_phdstudents <- function(l) {
     tmp <- l[[1]]
     
     ## Sort by year order
     ord <- order(unlist(lapply(tmp, function(x) x$start)))
     tmp <- tmp[ord]
 
+    note <- ""
+    
+    if ("note" %in% names(l)) 
+        note <- paste0(note, sprintf("%s", l$note))
+
     lines <- lapply(tmp, function(x) {
-        with(x, sprintf("\\ind %d--%s.  %s, \\emph{%s}.\n", start, end, name, title))
+        with(x, sprintf("\\ind %d--%s.  %s, \\emph{%s}. %s\n", start, end, name, title, note))
+    })
+
+    return(lines)
+}
+
+format_msstudents <- function(l) {
+    tmp <- l[[1]]
+    
+    ## Sort by year order
+    ord <- order(unlist(lapply(tmp, function(x) x$start)))
+    tmp <- tmp[ord]
+
+    note <- ""
+    
+    if ("note" %in% names(l)) 
+        note <- paste0(note, sprintf("%s", l$note))
+
+    lines <- lapply(tmp, function(x) {
+        with(x, sprintf("\\ind %d--%s.  %s, \\emph{%s}. %s\n", start, end, name, title, note))
+    })
+
+    return(lines)
+}
+
+format_gradcommittee <- function(l) {
+    tmp <- l[[1]]
+    
+    ## Sort by year order
+    ord <- order(unlist(lapply(tmp, function(x) x$start)))
+    tmp <- tmp[ord]
+
+    note <- ""
+    
+    if ("note" %in% names(l)) 
+        note <- paste0(note, sprintf("%s", l$note))
+
+    lines <- lapply(tmp, function(x) {
+        with(x, sprintf("\\ind %d--%s.  %s, \\emph{%s}. %s\n", start, end, name, title, note))
     })
 
     return(lines)
