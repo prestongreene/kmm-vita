@@ -35,3 +35,9 @@ grants:
     role: co-PI
     funder: "National Science Foundation"
     value: "\\$6,012"
+  - start: 2013
+    end: 2014
+    title: "Redesign of Human Anatomy lecture and laboratories (PTH\_AS 2201 and PTH\_AS 2203) using enhanced educational technologies"
+    role: Integrative Anatomy faculty co-PIs
+    funder: "University of Missouri Course Redesign"
+    value: "\\$78,000"
